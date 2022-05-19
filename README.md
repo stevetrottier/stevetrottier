@@ -3,7 +3,7 @@
 - 👀 I’m interested in enterprise identity and security, microservices, APIs, SaaS, and home automation
 - ⭐ Some skills I feel confident in include Java, Javascript, Groovy, Jackson, and Docker
 - ⌛ Once upon a time, when it was still pretty new, I co-authored a book about LDAP
-- 🌱 I’m currently learning Hibernate, Python, Terraform and Terragrunt
+- 🌱 I’m currently learning Hibernate, Python, AWS, CloudWatch, Terraform and Terragrunt
 
 <!---
 stevetrottier/stevetrottier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
